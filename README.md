@@ -4,6 +4,11 @@ Automated tank with obstacle avoidance through Computer Vision. Kinect was used 
 **Author:** Josué Rocha
 **Advisor:** Odilon Corrêa da Silva
 
+![alt text](https://github.com/josuerocha/KinectFramework/blob/master/2%20-%20Exemplos%20implementa%C3%A7%C3%A3o/6%20-%20Algor%C3%ADtmos%20de%20segmenta%C3%A7%C3%A3o/REGION%20GROWING%20(RGB%20E%20DISTANCIA)/Results/RegionGrowingRGB.png "KinecTank")
+<p align="center"> 
+  <b>Kinect tank prototype 1.0 assembly.<b>
+</p>
+
 # Materials
 
 * Microsoft Kinect v1.0;
