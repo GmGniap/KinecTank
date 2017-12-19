@@ -1,5 +1,5 @@
 # KinecTank
-Automated tank with obstacle avoidance through Computer Vision. Kinect was used to sensor the environment.
+Autonomous tank with obstacle avoidance through Computer Vision. Kinect was used to sensor the environment.
 
 **Author:** Josué Rocha
 **Advisor:** Odilon Corrêa da Silva
