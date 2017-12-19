@@ -4,7 +4,7 @@ Automated tank with obstacle avoidance through Computer Vision. Kinect was used 
 **Author:** Josué Rocha
 **Advisor:** Odilon Corrêa da Silva
 
-![alt text](https://github.com/josuerocha/KinectFramework/blob/master/2%20-%20Exemplos%20implementa%C3%A7%C3%A3o/6%20-%20Algor%C3%ADtmos%20de%20segmenta%C3%A7%C3%A3o/REGION%20GROWING%20(RGB%20E%20DISTANCIA)/Results/RegionGrowingRGB.png "KinecTank")
+![alt text](https://github.com/josuerocha/KinecTank/blob/master/pictures/CAM00175.jpg "KinecTank")
 <p align="center"> 
   <b>Kinect tank prototype 1.0 assembly.<b>
 </p>
@@ -22,7 +22,7 @@ Automated tank with obstacle avoidance through Computer Vision. Kinect was used 
 
 # To do
 
-* Prototype 1.0 - [X]
+* [X] Prototype 1.0
 	- [X] Assemble tank;
 	- [X] Program motor control using Arduino and the H-Bridges;
 	- [X] Implement Kinect data acquisition and processing;
@@ -30,11 +30,11 @@ Automated tank with obstacle avoidance through Computer Vision. Kinect was used 
 		* Route Calculation.
 	- [ ] Serial communication interface between Netbook and Arduino in C++;
 
-* Prototype 2.0 - [ ]
+* [ ] Prototype 2.0
 	- [ ] Replace wheels with tank tracks;
 	- [ ] Work on tank design.
 
-* Final version - [ ]
+* [ ] Final version
 	- [ ] Replace Netbook with Raspberry PI;
 	- [ ] Print circuit board.
 
