@@ -86,6 +86,8 @@ int main (int argc, char** argv)
         }*/
 
         //viewer.addArrow(objects[o].getCentroid(),Coord3D(0,0,0),Color(255,0,0,255));
+	
+	robot.move(objects[o].getCentroid()); // Moving robot to an open place or with the lowest object
 
         cout<<"END . Time taken " << (double)(clock() - tStart)/CLOCKS_PER_SEC << endl;
         cout<<"________________________________________________"<<endl;
